@@ -2,6 +2,162 @@
     "APPLICATION_THEME": "default",
     "appaddrkey": "",
     "appidkey": "DemoApp",
+    "appmenu": {
+        "desktop": {
+            "data": [
+                {
+                    "icon": {
+                        "default": "option1.png"
+                    },
+                    "id": "appmenuitemid1",
+                    "kuid": "dba2af590de746109ee4bb7b932c0fc6",
+                    "title": "Item 1"
+                },
+                {
+                    "icon": {
+                        "default": "option2.png"
+                    },
+                    "id": "appmenuitemid2",
+                    "kuid": "d6196dfe256f4c3e9284079872b37a28",
+                    "title": "Item 2"
+                },
+                {
+                    "icon": {
+                        "default": "option3.png"
+                    },
+                    "id": "appmenuitemid3",
+                    "kuid": "edca59f6eaa84f24817d9dec956c39ca",
+                    "title": "Item 3"
+                },
+                {
+                    "icon": {
+                        "default": "option4.png"
+                    },
+                    "id": "appmenuitemid4",
+                    "kuid": "ecfd9eda2a584a57bf28b46d78dc88a1",
+                    "title": "Item 4"
+                }
+            ]
+        },
+        "focusSkin": null,
+        "focusskin": null,
+        "mobile": {
+            "data": [
+                {
+                    "android": {
+                        "showAsFlag": 0
+                    },
+                    "icon": {
+                        "default": "option1.png"
+                    },
+                    "id": "appmenuitemid1",
+                    "kuid": "j481c7f8c12347558aaeaf561f36cf92",
+                    "title": "Item 1"
+                },
+                {
+                    "android": {
+                        "showAsFlag": 0
+                    },
+                    "icon": {
+                        "default": "option2.png"
+                    },
+                    "id": "appmenuitemid2",
+                    "kuid": "a4c1f307b6cd436c805c9fd8fe9363c3",
+                    "title": "Item 2"
+                },
+                {
+                    "android": {
+                        "showAsFlag": 0
+                    },
+                    "icon": {
+                        "default": "option3.png"
+                    },
+                    "id": "appmenuitemid3",
+                    "kuid": "ed3af526b02342ec94126c2d379cf0cd",
+                    "title": "Item 3"
+                },
+                {
+                    "android": {
+                        "showAsFlag": 0
+                    },
+                    "icon": {
+                        "default": "option4.png"
+                    },
+                    "id": "appmenuitemid4",
+                    "kuid": "fa88473d932f44aa961cc272e6ec3c42",
+                    "title": "Item 4"
+                }
+            ]
+        },
+        "osPlatform": "",
+        "osVersion": "iOS7",
+        "skin": null,
+        "tablet": {
+            "data": [
+                {
+                    "android": {
+                        "showAsFlag": 0
+                    },
+                    "icon": {
+                        "default": "option1.png"
+                    },
+                    "id": "appmenuitemid1",
+                    "kuid": "cccdb1ad013e436f84d25a7cece73fbf",
+                    "title": "Item 1",
+                    "windows8": {
+                        "appBarButtonStyle": "No Style",
+                        "position": "BOTTOM_LEFT"
+                    }
+                },
+                {
+                    "android": {
+                        "showAsFlag": 0
+                    },
+                    "icon": {
+                        "default": "option2.png"
+                    },
+                    "id": "appmenuitemid2",
+                    "kuid": "j70e88457c56411b85476308248dea19",
+                    "title": "Item 2",
+                    "windows8": {
+                        "appBarButtonStyle": "No Style",
+                        "position": "BOTTOM_LEFT"
+                    }
+                },
+                {
+                    "android": {
+                        "showAsFlag": 0
+                    },
+                    "icon": {
+                        "default": "option3.png"
+                    },
+                    "id": "appmenuitemid3",
+                    "kuid": "eec67190a883482aae34d5ae8b059d41",
+                    "title": "Item 3",
+                    "windows8": {
+                        "appBarButtonStyle": "No Style",
+                        "position": "BOTTOM_LEFT"
+                    }
+                },
+                {
+                    "android": {
+                        "showAsFlag": 0
+                    },
+                    "icon": {
+                        "default": "option4.png"
+                    },
+                    "id": "appmenuitemid4",
+                    "kuid": "b06ca303e5184fffb5df94ad753c9252",
+                    "title": "Item 4",
+                    "windows8": {
+                        "appBarButtonStyle": "No Style",
+                        "position": "BOTTOM_LEFT"
+                    }
+                }
+            ]
+        },
+        "wType": "Appmenu"
+    },
     "appnamekey": "DemoApp",
     "apppackagekey": "",
     "appversionkey": "1.0.0",
@@ -31,7 +187,7 @@
     "project.type": "js",
     "project_version": "sprint30",
     "referenceWidth": "375",
-    "startupformkey": "",
+    "startupformkey": "dca948c1ab26443794ad100099f9d170",
     "vendornamekey": "KonyLabs",
     "winmobileguidkey": ""
 }
